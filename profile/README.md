@@ -1,4 +1,4 @@
 <p align="center">
-<i>We're a seventh year team from Iowa City, IA.<br>
-Our name, Trobotix, is a portmanteau coined by blending trojan and robotics, with a stylistic “-ix."</i>
+<image src="horse.png" alt="Member with horse mask." style="border: 2px solid gold;" /><br>
+<i>We're a ninth-year team from Iowa City, IA.<br>Our name, Trobotix, is a portmanteau coined by blending trojan and robotics, with a stylistic “-ix."</i>
 </p>
